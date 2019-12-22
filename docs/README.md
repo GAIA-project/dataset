@@ -11,6 +11,8 @@ tbd
 | Floors | 2 | 1 |
 | Sensing Devices | 6 | 5 |
 | Gateway Devices | 1 | 1 |
+| Evaluation Days | 0 | 0 | 
+| Message # | 0 | 0 |
 
 #### Building 100
 
